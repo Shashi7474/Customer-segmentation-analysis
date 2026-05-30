@@ -31,8 +31,6 @@ Tools I used:
 
 This is the kind of project that lands data jobs. Not because it's complex — but because it tells a clear business story with data.
 
-Full project on GitHub 👇 (link in comments)
-
 If you're learning data analytics or ML, save this. Build it yourself. It changed how I think about customer data.
 
 ♻️ Repost if this was useful — someone in your network needs to see this.
